@@ -10,14 +10,15 @@ team wants to understand how casual riders and annual members use Cyclistic bike
 design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your
 recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
-# AIM: To answer the following three questions using the data provided
+# AIM: The primary objective of this data analytics project is to analyze the available dataset comprehensively in order to provide insightful answers to the following three key questions:
 ## Three questions that will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## Link to the Data Being used : 
-https://divvy-tripdata.s3.amazonaws.com/index.html
+1) https://divvy-tripdata.s3.amazonaws.com/index.html
+2) New York BikeShare data available on BigQuery
 
 ## I answered the above-mentioned questions using these three tools:
 1) Excel
@@ -37,6 +38,8 @@ I opened my spreadsheet application and followed these steps:
 After working with the individual spreadsheets, I merged them into a full-year view.
 Finally, I exported a summary file for further analysis.
 
+### Important Excel Functions Used - VLOOKUP, CONCATENATE, SUMIF, COUNTA, DATE, IFERROR, MIN and MAX.
+
 ## SQL- 
 I opened BigQuery and proceeded with the following steps:
 
@@ -45,8 +48,26 @@ I opened BigQuery and proceeded with the following steps:
 To consolidate relevant data, I utilized JOIN statements to combine various tables into a unified table.
 3) Afterward, I created summary statistics to gain a comprehensive overview of the dataset.
 4) During my analysis, I identified interesting trends and saved this valuable information into a separate table for future reference.
+5) I prepared two Excel sheets, referred to as "Result Tables," containing the essential Key Performance Indicators (KPIs) that I intended to visualize during the data visualization phase.
 
-## Tableau for Data Visualization-
+### Important SQL Functions Used - OUTERJOIN, INNER JOIN, SELECT, WHERE, GROUP BY, ORDER BY, DATE functions, CAST and ROUND.
+
+## Tableau Data Visualization Overview-
+
+1) I imported Excel sheets generated from BigQuery, specifically named "Result Table1" and "Result Table 2."
+2) Employing Tableau, I meticulously crafted an interactive dashboard, incorporating all pertinent Key Performance Indicators (KPIs).
+3) The visualization prominently highlights trends in bike usage, encompassing daily, monthly, and yearly patterns, in addition to geographical insights displayed on a city map.
+4) Furthermore, I presented seasonal trends for stations, showcasing trip counts and average trip durations for both customers and subscribers.
+
+### Significance of the Interactive Dashboard:
+This meticulously designed interactive dashboard serves as a powerful tool for project stakeholders. It facilitates a comprehensive comparison and contrast of bike usage based on critical metrics, enabling stakeholders to extract invaluable insights from the project's data.
+
+
+# Conclusion: Leveraging the Interactive Dashboard to Address the Key Three Questions Using Provided Data: 
+### Incorporating the Interactive Dashboard has proven to be instrumental in addressing the pivotal three questions utilizing the dataset at hand. This project furthermore helped in guiding the future of the marketing program to increase the number of overall subscribers.
+
+### Access the Interactive Dashboard - https://public.tableau.com/app/profile/ameya.dhurde/viz/CyclisticDashboard_16906929536540/SummerTrends
+
 
 
 

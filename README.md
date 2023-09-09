@@ -19,8 +19,8 @@ recommendations, so they must be backed up with compelling data insights and pro
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## Link to the Data Being used : 
-1) https://divvy-tripdata.s3.amazonaws.com/index.html
-2) New York BikeShare data available on BigQuery
+1. https://divvy-tripdata.s3.amazonaws.com/index.html
+2.  New York BikeShare data available on BigQuery
 
 ## I answered the above-mentioned questions using these three tools:
 1) Excel
@@ -30,12 +30,12 @@ recommendations, so they must be backed up with compelling data insights and pro
 ## Excel-
 I opened my spreadsheet application and followed these steps:
 
-1) I ensured that columns were made consistent and combined into a single worksheet where relevant.
-2) I cleaned and transformed the data to prepare it for analysis.
-3) I conducted a descriptive analysis of the data.
-4) I ran calculations in one file to gain a better understanding of the data layout. Specifically, I calculated the mean of ride_length, the maximum ride_length, and the mode of day_of_week.
-5) I created pivot tables to quickly calculate and visualize the data. For instance, I calculated the average ride_length for members and casual riders, as well as the average ride_length for users by day_of_week. I also calculated the number of rides for users by day_of_week.
-6) I opened another file and performed the same descriptive analysis steps, exploring different seasons to make initial observations.
+1. I ensured that columns were made consistent and combined into a single worksheet where relevant.
+2. I cleaned and transformed the data to prepare it for analysis.
+3. I conducted a descriptive analysis of the data.
+4. I ran calculations in one file to gain a better understanding of the data layout. Specifically, I calculated the mean of ride_length, the maximum ride_length, and the mode of day_of_week.
+5. I created pivot tables to quickly calculate and visualize the data. For instance, I calculated the average ride_length for members and casual riders, as well as the average ride_length for users by day_of_week. I also calculated the number of rides for users by day_of_week.
+6. I opened another file and performed the same descriptive analysis steps, exploring different seasons to make initial observations.
 
 After working with the individual spreadsheets, I merged them into a full-year view.
 Finally, I exported a summary file for further analysis.

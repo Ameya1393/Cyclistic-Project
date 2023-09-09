@@ -1,5 +1,6 @@
 # Cyclistic-Project
 
+![Cyclistic logo 1](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/dc3b2f29-dd23-4b9a-8ef6-11e4f940d167)
 
 
 ## Project Description:

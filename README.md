@@ -20,12 +20,12 @@ recommendations, so they must be backed up with compelling data insights and pro
 
 ## Link to the Data Being used : 
 1. https://divvy-tripdata.s3.amazonaws.com/index.html
-2.  New York BikeShare data available on BigQuery
+2. New York BikeShare data available on BigQuery
 
 ## I answered the above-mentioned questions using these three tools:
-1) Excel
-2) SQL using BigQuery
-3) Data Visualization
+1. Excel
+2. SQL using BigQuery
+3. Data Visualization
 
 ## Excel-
 I opened my spreadsheet application and followed these steps:

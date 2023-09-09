@@ -1,5 +1,6 @@
 # Cyclistic-Project
 
+
 ## Project Description:
 This project provides a comprehensive description of the key milestones and actions undertaken throughout the Cyclistic Project, which I successfully completed as part of the Data Analytics Professional Certificate program.
 
@@ -50,7 +51,10 @@ To consolidate relevant data, I utilized JOIN statements to combine various tabl
 4) During my analysis, I identified interesting trends and saved this valuable information into a separate table for future reference.
 5) I prepared two Excel sheets, referred to as "Result Tables," containing the essential Key Performance Indicators (KPIs) that I intended to visualize during the data visualization phase.
 
-### Important SQL Functions Used - OUTERJOIN, INNER JOIN, SELECT, WHERE, GROUP BY, ORDER BY, DATE functions, CAST and ROUND.
+### Important SQL Functions Used - OUTER JOIN, INNER JOIN, SELECT, WHERE, GROUP BY, ORDER BY, DATE functions, CAST and ROUND.
+
+## I have attached a few Screenshots of the SQL code used for the Project -
+
 
 ## Tableau Data Visualization Overview-
 

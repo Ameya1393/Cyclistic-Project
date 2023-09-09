@@ -84,7 +84,7 @@ This meticulously designed interactive dashboard serves as a powerful tool for p
 # Conclusion: Leveraging the Interactive Dashboard to Address the Key Three Questions Using Provided Data: 
 ### Incorporating the Interactive Dashboard has proven to be instrumental in addressing the pivotal three questions utilizing the dataset at hand. This project furthermore helped in guiding the future of the marketing program to increase the number of overall subscribers.
 
-### Access the Interactive Dashboard - 
+### Access to the Interactive Dashboard - 
 [Interactive Dashboard](https://public.tableau.com/app/profile/ameya.dhurde/viz/CyclisticDashboard_16906929536540/SummerTrends)
 
 

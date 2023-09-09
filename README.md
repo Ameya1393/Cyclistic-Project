@@ -57,15 +57,16 @@ I opened BigQuery and proceeded with the following steps:
 
 ## I have attached a few Screenshots of the SQL code used for the Project -
 
-![Files](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/4ed0cffc-c839-4893-b1ca-ca9d7793fc06)
+![Files 1](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/286a6b92-1b61-4afe-a56e-bc806a96d99d)
 
-![Code 1 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/c2254b1f-6d02-452e-aad2-308099dacdcc)
+![Code 1 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/a601d231-5347-4d05-8079-9c45e0fd68bf)
 
-![Code 2 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/d3abedfd-1d9b-4b8c-ad1e-73865919ee66)
+![Code 2 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/03669d6b-2ab6-47e9-bed6-b15112f2dd2b)
 
-![Code 3 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/b2c5552c-0a22-4862-8e11-88a7db9691ed)
+![Code 3 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/36ac899d-ca41-4ffa-bd15-b3d75a7ab8c8)
 
-![Code 4 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/f5bb6728-c976-4c32-8067-e66480b8cafe)
+![Code 4 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/0eb32239-1e1a-44fc-b13a-87a30b337ff9)
+
 
 ## Tableau Data Visualization Overview-
 

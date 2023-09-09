@@ -45,12 +45,12 @@ Finally, I exported a summary file for further analysis.
 ## SQL- 
 I opened BigQuery and proceeded with the following steps:
 
-1) I imported the excel sheets into the database.
-2) I began by exploring the data, examining the total number of rows, distinct values, as well as calculating the maximum, minimum, and mean values for relevant columns.
-To consolidate relevant data, I utilized JOIN statements to combine various tables into a unified table.
-3) Afterward, I created summary statistics to gain a comprehensive overview of the dataset.
-4) During my analysis, I identified interesting trends and saved this valuable information into a separate table for future reference.
-5) I prepared two Excel sheets, referred to as "Result Tables," containing the essential Key Performance Indicators (KPIs) that I intended to visualize during the data visualization phase.
+1. I imported the excel sheets into the database.
+2. I began by exploring the data, examining the total number of rows, distinct values, as well as calculating the maximum, minimum, and mean values for relevant columns.
+3. To consolidate relevant data, I utilized JOIN statements to combine various tables into a unified table.
+4. Afterward, I created summary statistics to gain a comprehensive overview of the dataset.
+5. During my analysis, I identified interesting trends and saved this valuable information into a separate table for future reference.
+6. I prepared two Excel sheets, referred to as "Result Tables," containing the essential Key Performance Indicators (KPIs) that I intended to visualize during the data visualization phase.
 
 ### Important SQL Functions Used - OUTER JOIN, INNER JOIN, SELECT, WHERE, GROUP BY, ORDER BY, DATE functions, CAST and ROUND.
 
@@ -59,10 +59,10 @@ To consolidate relevant data, I utilized JOIN statements to combine various tabl
 
 ## Tableau Data Visualization Overview-
 
-1) I imported Excel sheets generated from BigQuery, specifically named "Result Table1" and "Result Table 2."
-2) Employing Tableau, I meticulously crafted an interactive dashboard, incorporating all pertinent Key Performance Indicators (KPIs).
-3) The visualization prominently highlights trends in bike usage, encompassing daily, monthly, and yearly patterns, in addition to geographical insights displayed on a city map.
-4) Furthermore, I presented seasonal trends for stations, showcasing trip counts and average trip durations for both customers and subscribers.
+1. I imported Excel sheets generated from BigQuery, specifically named "Result Table1" and "Result Table 2."
+2. Employing Tableau, I meticulously crafted an interactive dashboard, incorporating all pertinent Key Performance Indicators (KPIs).
+3. The visualization prominently highlights trends in bike usage, encompassing daily, monthly, and yearly patterns, in addition to geographical insights displayed on a city map.
+4. Furthermore, I presented seasonal trends for stations, showcasing trip counts and average trip durations for both customers and subscribers.
 
 ### Significance of the Interactive Dashboard:
 This meticulously designed interactive dashboard serves as a powerful tool for project stakeholders. It facilitates a comprehensive comparison and contrast of bike usage based on critical metrics, enabling stakeholders to extract invaluable insights from the project's data.

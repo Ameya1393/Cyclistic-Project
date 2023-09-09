@@ -4,7 +4,7 @@
 
 
 ## Project Description:
-This project provides a comprehensive description of the key milestones and actions undertaken throughout the Cyclistic Project, which I successfully completed as part of the Data Analytics Professional Certificate program.
+This project provides a comprehensive description of the key milestones and actions undertaken throughout the Cyclistic Project, which I successfully completed as part of the  Google Business Intelligence Certificate program.
 
 ## Scenario: 
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of

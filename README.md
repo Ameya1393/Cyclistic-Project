@@ -35,7 +35,7 @@ I opened my spreadsheet application and followed these steps:
 2. I cleaned and transformed the data to prepare it for analysis.
 3. I conducted a descriptive analysis of the data.
 4. I ran calculations in one file to gain a better understanding of the data layout. Specifically, I calculated the mean of ride_length, the maximum ride_length, and the mode of day_of_week.
-5. I created pivot tables to quickly calculate and visualize the data. For instance, I calculated the average ride_length for members and casual riders, as well as the average ride_length for users by day_of_week. I also calculated the number of rides for users by day_of_week.
+5. I created pivot tables to calculate and visualize the data quickly. For instance, I calculated the average ride_length for members and casual riders, as well as the average ride_length for users by day_of_week. I also calculated the number of rides for users by day_of_week.
 6. I opened another file and performed the same descriptive analysis steps, exploring different seasons to make initial observations.
 
 After working with the individual spreadsheets, I merged them into a full-year view.
@@ -57,6 +57,15 @@ I opened BigQuery and proceeded with the following steps:
 
 ## I have attached a few Screenshots of the SQL code used for the Project -
 
+![Files](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/4ed0cffc-c839-4893-b1ca-ca9d7793fc06)
+
+![Code 1 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/c2254b1f-6d02-452e-aad2-308099dacdcc)
+
+![Code 2 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/d3abedfd-1d9b-4b8c-ad1e-73865919ee66)
+
+![Code 3 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/b2c5552c-0a22-4862-8e11-88a7db9691ed)
+
+![Code 4 final](https://github.com/Ameya1393/Cyclistic-Project/assets/84855509/f5bb6728-c976-4c32-8067-e66480b8cafe)
 
 ## Tableau Data Visualization Overview-
 
@@ -72,7 +81,8 @@ This meticulously designed interactive dashboard serves as a powerful tool for p
 # Conclusion: Leveraging the Interactive Dashboard to Address the Key Three Questions Using Provided Data: 
 ### Incorporating the Interactive Dashboard has proven to be instrumental in addressing the pivotal three questions utilizing the dataset at hand. This project furthermore helped in guiding the future of the marketing program to increase the number of overall subscribers.
 
-### Access the Interactive Dashboard - https://public.tableau.com/app/profile/ameya.dhurde/viz/CyclisticDashboard_16906929536540/SummerTrends
+### Access the Interactive Dashboard - 
+https://public.tableau.com/app/profile/ameya.dhurde/viz/CyclisticDashboard_16906929536540/SummerTrends
 
 
 

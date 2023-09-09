@@ -53,6 +53,8 @@ I opened BigQuery and proceeded with the following steps:
 5. During my analysis, I identified interesting trends and saved this valuable information into a separate table for future reference.
 6. I prepared two Excel sheets, referred to as "Result Tables," containing the essential Key Performance Indicators (KPIs) that I intended to visualize during the data visualization phase.
 
+#### Find the Result Tables here - [Result Table's](https://drive.google.com/drive/folders/1caKCSBafL8tsk5TpVJkSe0FrR6Xm_uqV)
+
 ### Important SQL Functions Used - OUTER JOIN, INNER JOIN, SELECT, WHERE, GROUP BY, ORDER BY, DATE functions, CAST and ROUND.
 
 ## I have attached a few Screenshots of the SQL code used for the Project -

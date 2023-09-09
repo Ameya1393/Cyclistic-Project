@@ -20,7 +20,7 @@ recommendations, so they must be backed up with compelling data insights and pro
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## Link to the Data Being used : 
-1. https://divvy-tripdata.s3.amazonaws.com/index.html
+1. [Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 2. New York BikeShare data available on BigQuery
 
 ## I answered the above-mentioned questions using these three tools:
@@ -83,7 +83,7 @@ This meticulously designed interactive dashboard serves as a powerful tool for p
 ### Incorporating the Interactive Dashboard has proven to be instrumental in addressing the pivotal three questions utilizing the dataset at hand. This project furthermore helped in guiding the future of the marketing program to increase the number of overall subscribers.
 
 ### Access the Interactive Dashboard - 
-https://public.tableau.com/app/profile/ameya.dhurde/viz/CyclisticDashboard_16906929536540/SummerTrends
+[Interactive Dashboard](https://public.tableau.com/app/profile/ameya.dhurde/viz/CyclisticDashboard_16906929536540/SummerTrends)
 
 
 
